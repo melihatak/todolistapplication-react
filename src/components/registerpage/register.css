@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+
+    .container {
+        padding: 60px 0;
+    }
+    .form-signin {
+        margin: 0 auto;
+        max-width: 320px;
+    }
+}
+
+.loading{
+    position: relative;
+
+
+}
